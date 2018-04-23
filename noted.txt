@@ -12,3 +12,6 @@ https://creative.adobe.com/products/download/xd
 ==========
 https://www.youtube.com/watch?v=d5O9AUlEByw
 -> install MacOS High Sierra 10.13 on VMware Workstation 14
+===========
+https://www.youtube.com/watch?v=8yVoQ7Dw180
+=> install vmwar new
